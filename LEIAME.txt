@@ -1,2 +1,6 @@
 "meu primeiro repositorio"
+<<<<<<< HEAD
 "Novo texto na branch ticket0001"
+=======
+"Novo texto na branch ticket0002"
+>>>>>>> ticket0002
